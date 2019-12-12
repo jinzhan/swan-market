@@ -1,38 +1,36 @@
-import Shake from '../../components/shake/shake.js'
+import Shake from '../../components/shake/shake.js';
 
 Page({
-    data: {
+  data: {},
 
-    },
-
-    onLoad () {
-        this.shake = new Shake(this, {
-            shakeThreshold: 100, // 阈值
-            callback: () => {
-                wx.showModal({
-                    title: '提示',
-                    content: '恭喜您，中奖了',
-                    showCancel: false,
-                    success: res => {
-                        if (res.confirm) {
-                            this.shake.isStart = true
-                            console.log('用户点击确定')
-                        } else if (res.cancel) {
-                            console.log('用户点击取消')
-                            this.shake.isStart = true
-                        }
-                    }
-                })
+  onLoad() {
+    this.shake = new Shake(this, {
+      shakeThreshold: 100, // 阈值
+      callback: () => {
+        swan.showModal({
+          title: '提示',
+          content: '恭喜您，中奖了',
+          showCancel: false,
+          success: res => {
+            if (res.confirm) {
+              this.shake.isStart = true;
+              console.log('用户点击确定');
+            } else if (res.cancel) {
+              console.log('用户点击取消');
+              this.shake.isStart = true;
             }
-        })
-    },
+          }
+        });
+      }
+    });
+  },
 
-    onUnload () {
-        wx.stopAccelerometer()
-    },
+  onUnload() {
+    swan.stopAccelerometer();
+  },
 
-    onReady () {
-        console.log('onReady')
-    }
+  onReady() {
+    console.log('onReady');
+  }
 
-})
+});

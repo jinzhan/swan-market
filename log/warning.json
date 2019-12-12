@@ -1,0 +1,20 @@
+[
+    {
+        "type": "show tips",
+        "file": "/Users/steinitz/fortress/wx2swan-event/swan-market_swan/app.js",
+        "row": 10,
+        "column": 4,
+        "before": "wx.login",
+        "after": "swan.login",
+        "message": "wx.login --- 登录接口code换取openid和session_key 在百度小程序中存在diff \n      相关文档：https://smartapp.baidu.com/docs/develop/api/open_log/#Session-Key/"
+    },
+    {
+        "type": "show tips",
+        "file": "/Users/steinitz/fortress/wx2swan-event/swan-market_swan/components/shake/shake.js",
+        "row": 32,
+        "column": 29,
+        "before": "wx.createAudioContext",
+        "after": "swan.createAudioContext",
+        "message": "wx.createAudioContext --- 是个二级API，目前swan还不支持，so sad(ノへ￣、)，需要棒棒的你手动兼容下它和它返回值的api哦 ╮（﹀_﹀）╭ "
+    }
+]

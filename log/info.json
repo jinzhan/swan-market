@@ -1,0 +1,137 @@
+[
+    {
+        "type": "transform function call arg name",
+        "file": "/Users/steinitz/fortress/wx2swan-event/swan-market_swan/app.js",
+        "row": 5,
+        "column": 15,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "/Users/steinitz/fortress/wx2swan-event/swan-market_swan/app.js",
+        "row": 7,
+        "column": 4,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "/Users/steinitz/fortress/wx2swan-event/swan-market_swan/app.js",
+        "row": 16,
+        "column": 4,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "/Users/steinitz/fortress/wx2swan-event/swan-market_swan/app.js",
+        "row": 20,
+        "column": 10,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "/Users/steinitz/fortress/wx2swan-event/swan-market_swan/components/lock/lock.js",
+        "row": 51,
+        "column": 19,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "/Users/steinitz/fortress/wx2swan-event/swan-market_swan/components/scratch/scratch.js",
+        "row": 81,
+        "column": 19,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "/Users/steinitz/fortress/wx2swan-event/swan-market_swan/components/scratch/scratch.js",
+        "row": 84,
+        "column": 12,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "/Users/steinitz/fortress/wx2swan-event/swan-market_swan/components/shake/shake.js",
+        "row": 38,
+        "column": 8,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "/Users/steinitz/fortress/wx2swan-event/swan-market_swan/pages/fruitMachine/fruitMachine.js",
+        "row": 13,
+        "column": 16,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "/Users/steinitz/fortress/wx2swan-event/swan-market_swan/pages/gridcard/gridcard.js",
+        "row": 22,
+        "column": 16,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "/Users/steinitz/fortress/wx2swan-event/swan-market_swan/pages/scratch/scratch.js",
+        "row": 20,
+        "column": 16,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "/Users/steinitz/fortress/wx2swan-event/swan-market_swan/pages/shake/shake.js",
+        "row": 12,
+        "column": 16,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "/Users/steinitz/fortress/wx2swan-event/swan-market_swan/pages/shake/shake.js",
+        "row": 31,
+        "column": 8,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "/Users/steinitz/fortress/wx2swan-event/swan-market_swan/pages/slotMachine/slotMachine.js",
+        "row": 22,
+        "column": 16,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "/Users/steinitz/fortress/wx2swan-event/swan-market_swan/pages/wheel/wheel.js",
+        "row": 16,
+        "column": 16,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    }
+]
