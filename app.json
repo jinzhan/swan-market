@@ -1,8 +1,8 @@
 {
   "pages":[
+    "pages/scratch/scratch",
     "pages/index/index",
     "pages/wheel/wheel",
-    "pages/scratch/scratch",
     "pages/slotMachine/slotMachine",
     "pages/fruitMachine/fruitMachine",
     "pages/gridcard/gridcard",

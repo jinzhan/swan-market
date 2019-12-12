@@ -10,8 +10,8 @@ Page({
     this.scratch = new Scratch(this, {
       canvasWidth: 197,
       canvasHeight: 72,
-      imageResource: 'https://misc.aotu.io/pfan123/wx/placeholder.png',
-      maskColor: 'red',
+      imageResource: '', // '../../components/scratch/images/placeholder.png',
+      maskColor: 'blue',
       r: 4,
       awardTxt: '中大奖',
       awardTxtColor: '#3985ff',
