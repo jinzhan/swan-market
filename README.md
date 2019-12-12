@@ -1,7 +1,8 @@
-## wxapp-market
+## swan-market
 
-小程序营销组件， Marketing components for WeChatApp
+小程序营销组件， Marketing components for Swan Smartprogram
 
+base on : https://github.com/o2team/wxapp-market
 
 ## 支持营销玩法
 
@@ -19,7 +20,7 @@
 ### 1.拉取仓库
 
 ```
-git clone git@github.com:o2team/wxapp-market.git
+git clone git@github.com:jinzhan/swan-market.git
 ```
 
 ### 2.查看组件文件
@@ -231,7 +232,3 @@ git clone git@github.com:o2team/wxapp-market.git
 
 本项目基于 [MIT](https://zh.wikipedia.org/wiki/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89) 协议，请自由地享受和参与开源。
 
-
-## 贡献
-
-如果你有好的意见或建议，欢迎给我们提 [Issue](https://github.com/o2team/wxapp-market/issues) 或 [PR](https://github.com/o2team/wxapp-market/compare)，为优化 [wxapp-market](https://github.com/o2team/wxapp-market) 贡献力量。
