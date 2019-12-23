@@ -1,12 +1,5 @@
 {
     "appid": "11203062",
-    "editor": {
-        "curPath": "",
-        "expands": [],
-        "markdownUploadTimeMap": {},
-        "paths": [],
-        "recentlyFiles": []
-    },
     "host": "baiduboxapp",
     "preview": {
         "packageId": 420341
@@ -16,8 +9,8 @@
     },
     "swan": {
         "baiduboxapp": {
-            "extensionJsVersion": "1.7.3",
-            "swanJsVersion": "3.120.9"
+            "swanJsVersion": "3.120.9",
+            "extensionJsVersion": "1.7.3"
         }
     }
 }
